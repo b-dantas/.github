@@ -1,6 +1,7 @@
 ---
 name: Ideia
 about: Pensamento inacabado ou épico, para amadurecer e desdobrar em outras issues
+labels: ideia
 ---
 
 <!-- Sem dado pessoal, credencial ou segredo em nenhuma seção. -->

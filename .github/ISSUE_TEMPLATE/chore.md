@@ -1,6 +1,7 @@
 ---
 name: Chore
 about: Trabalho que não muda o comportamento para quem usa, como débito técnico, dependência, infraestrutura, segurança, configuração ou processo
+labels: chore
 ---
 
 <!-- Sem dado pessoal, credencial ou segredo em nenhuma seção. -->
