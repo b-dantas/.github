@@ -24,7 +24,7 @@ labels: documentation
 
 ## Decisão em aberto
 
-<!-- Apague se não houver. Se houver, aplique a label decisao: a issue não está pronta para implementar. -->
+<!-- Apague se não houver. Se houver, a issue não está pronta para implementar até ser respondida. -->
 
 ## Pronto quando
 

@@ -12,7 +12,7 @@ labels: enhancement
 
 ## Onde
 
-<!-- Módulo, serviço ou pasta afetados, e padrões existentes a seguir, se souber. -->
+<!-- Pasta, módulo ou componente afetado, e padrões existentes a seguir, se souber. -->
 
 ## Restrições
 
@@ -22,14 +22,14 @@ labels: enhancement
 
 ## Decisão em aberto
 
-<!-- Apague se não houver. Se houver, aplique a label decisao: a issue não está pronta para implementar. -->
+<!-- Apague se não houver. Se houver, a issue não está pronta para implementar até ser respondida. -->
 
 ## Pronto quando
 
 <!-- Cada item conferível por comando ou diff. -->
 
 - [ ]
-- [ ] os testes e o lint do projeto passam
+- [ ] a verificação do projeto (testes, lint, build) passa
 
 ## Como verificar
 

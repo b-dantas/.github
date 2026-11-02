@@ -17,7 +17,7 @@ labels: bug
 
 ## Onde
 
-<!-- Módulo, serviço ou pasta, e arquivo:linha, se souber. -->
+<!-- Pasta, módulo ou componente afetado, e arquivo:linha, se souber. -->
 
 ## Fora de escopo
 
@@ -25,14 +25,14 @@ labels: bug
 
 ## Decisão em aberto
 
-<!-- Apague se não houver. Se houver, aplique a label decisao: a issue não está pronta para implementar. -->
+<!-- Apague se não houver. Se houver, a issue não está pronta para implementar até ser respondida. -->
 
 ## Pronto quando
 
-<!-- Se o defeito não cabe em teste (comentário, texto), troque o primeiro item pelo motivo. -->
+<!-- Cada item conferível por comando ou diff. Se o defeito não cabe em teste (texto, comentário), troque o primeiro item pelo motivo. -->
 
 - [ ] um teste reproduz o defeito: reprova antes da correção e passa depois
-- [ ] os testes e o lint do projeto passam
+- [ ] a verificação do projeto (testes, lint, build) passa
 - [ ]
 
 ## Contexto

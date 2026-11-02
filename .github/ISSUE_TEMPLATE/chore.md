@@ -1,7 +1,6 @@
 ---
 name: Chore
-about: Trabalho que não muda o comportamento para o usuário, como débito técnico, dependência, infraestrutura, segurança, configuração ou processo
-labels: chore
+about: Trabalho que não muda o comportamento para quem usa, como débito técnico, dependência, infraestrutura, segurança, configuração ou processo
 ---
 
 <!-- Sem dado pessoal, credencial ou segredo em nenhuma seção. -->
@@ -12,7 +11,7 @@ labels: chore
 
 ## Onde
 
-<!-- Módulo, serviço, pasta ou recurso afetados. -->
+<!-- Pasta, módulo, componente ou recurso afetado. -->
 
 ## Restrições
 
@@ -22,15 +21,15 @@ labels: chore
 
 ## Decisão em aberto
 
-<!-- Apague se não houver. Se houver, aplique a label decisao: a issue não está pronta para implementar. -->
+<!-- Apague se não houver. Se houver, a issue não está pronta para implementar até ser respondida. -->
 
 ## Pronto quando
 
 <!-- Cada item conferível por comando ou diff. -->
 
 - [ ]
-- [ ] os testes e o lint do projeto passam
+- [ ] a verificação do projeto (testes, lint, build) passa
 
 ## Como verificar
 
-<!-- O comando que prova que nada mudou para o usuário e que o motivo foi resolvido. -->
+<!-- O comando que prova que nada mudou para quem usa e que o motivo foi resolvido. -->
